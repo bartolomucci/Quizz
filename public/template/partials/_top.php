@@ -9,4 +9,10 @@
     <title>Quizz &copy;BA</title>
 </head>
 <body>
-    
+<nav>
+    <ul>
+        <a href="/index.php"><li>Home</li></a>
+        <a href="/login.php"><li>Login</li></a>
+    </ul>
+</nav>
+<div class="container">
